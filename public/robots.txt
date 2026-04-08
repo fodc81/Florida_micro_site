@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://floridaoutdoormovies.com/sitemap.xml
